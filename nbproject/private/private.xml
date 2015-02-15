@@ -1,0 +1,29 @@
+<<<<<<< OURS
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/src/java/edu/pitt/resumecore/WorkExperience.java</file>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/src/java/edu/pitt/servlets/processWorkExperience.java</file>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/web/pages/workExpForm.html</file>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/web/pages/workExperience.jsp</file>
+        </group>
+    </open-files>
+</project-private>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/src/java/edu/pitt/servlets/processWorkExperience.java</file>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/src/java/edu/pitt/portfoliocore/Research.java</file>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/src/java/edu/pitt/resumecore/WorkExperience.java</file>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/web/pages/workExperience.jsp</file>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/web/pages/workExpForm.html</file>
+            <file>file:/C:/Users/mshirey/Documents/NetBeansProjects/resume-master/src/java/edu/pitt/servlets/processResearch.java</file>
+        </group>
+    </open-files>
+</project-private>
+>>>>>>> THEIRS
