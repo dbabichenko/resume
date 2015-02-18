@@ -1,0 +1,27 @@
+<script>
+    $(function () {
+        $(".datepicker").datepicker();
+    });
+</script>
+
+<form class="form-signin" method="post" action="../process/processResearch">
+    <label> Research </label>
+    <input type="text" class="form-control" id="txtResearchName" name="txtResearchName" placeholder="Research Name" required autofocus="">
+    <br>
+    <input type="text" class="form-control" id="txtJournal" name="txtJournal" placeholder="Name of Journal" required>
+    <br>
+    <label style="display:inline"> Submission Date </label><input type="text" class="form-control datepicker" id ="txtSubmissionDate" name="txtSubmissionDate" required style="width:20%; display:inline">
+    
+    <label style="display:inline"> Published Date </label><input type="text" class="form-control datepicker" id="txtPublishedDate" name="txtPublishedDate" required style="width:20%; display:inline">
+    
+    
+    
+    <label style="display:inline"> Research Abstract </label><br>
+    
+    <textarea class="form-control" rows="8" id="txtResearchAbstract" name="txtResearchAbstract" placeholder="Please give a brief description of your Research" required></textarea><br>
+    <br>
+
+    
+    <label style="display:inline"> Web Address of Research </label>
+    <input type="url" class="form-control" id="txtPublishLink" name="txtPublishLink" placeholder="Enter website of your Research" >
+    <!-- is name="txtPublishLink" correct?  Or should it be urlPublishLink?  -->
